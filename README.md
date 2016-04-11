@@ -4,4 +4,6 @@ Scrabble's modifications upon aniwey's online Candy Box game at [candies.aniwey.
 
 With love, scribscrab.
 
+http://candies.scrabblerocks.com/ 
+
 ![scrabble](http://scrabblerocks.com/img/s.png "scrabble")
